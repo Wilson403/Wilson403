@@ -1,8 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilson403)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 开源计划
-* ~~Html转化Unity富文本的库(已开源)~~
-* ~~基于MVI架构的Unity-UI框架 (已开源)~~
+* ~~Html转化Unity富文本的库(已开源：https://github.com/Wilson403/Html2UnityRich)~~
+* ~~基于MVI架构的Unity-UI框架 (已开源：https://github.com/Wilson403/MVI4Unity)~~
 * Promise C# (进行中...)
 * Unity资源管理框架
 * 放置游戏的战斗框架 （预计今年开源）
