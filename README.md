@@ -1,6 +1,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilson403)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilson403)](https://github.com/Wilson403/github-readme-stats)
 ## 开源计划
 * ~~Html转化Unity富文本的库(已开源：https://github.com/Wilson403/Html2UnityRich)~~
 * ~~基于MVI架构的Unity-UI框架 (已开源：https://github.com/Wilson403/MVI4Unity)~~
