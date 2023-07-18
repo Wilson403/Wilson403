@@ -6,6 +6,8 @@
 * ~~Unity资源管理框架[UniAsset](已开源：https://github.com/Wilson403/UniAsset）~~
 * 六边形地图管理（预计今年开源）
 * 战斗框架（UnityCombatSystem） （高优先级，预计今年开源）
+  
+  <i>-2023/7/18：已经完成基础的框架以及演示Demo。但是目前代码凌乱，可读性差，等优化一版再开源</i>
 
 <i><b>Please follow me,and give me the star ~</b></i>
 
