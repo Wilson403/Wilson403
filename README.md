@@ -8,11 +8,18 @@
 * 战斗框架（UnityCombatSystem） （高优先级，预计今年开源）
   
   <i>-2023/7/18：已经完成基础的框架以及演示Demo。但是目前代码凌乱，可读性差，等优化一版再开源</i>
+  
+  <i>-下一次更新预览：添加新的技能机制，优化代码可读性，正式开源</i>
+  
+   ![动画](https://github.com/Wilson403/Wilson403/assets/38308449/492a9a35-9bda-4371-928e-74c6d7977ed6)
 
-<i><b>Please follow me,and give me the star ~</b></i>
+  <center><i><b>上图飞行物传递，普攻的演示Demo</b></i></center>
 
 ## Contact me
 * 微信:15975224183
 * QQ:3394648942
 * Phone:15975224183
 * Mail:yiqun2529092370@outlook.com
+
+------
+<i><b>Please follow me,and give me the star ~</b></i>
